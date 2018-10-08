@@ -1,2 +1,2 @@
 # first_typescript
-Simple Typescript app
+Simple TypeScript app
